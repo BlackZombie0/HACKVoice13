@@ -1,8 +1,8 @@
 #!/bin/bash
 # SayHello v1.1
-# coded by: github.com/thelinuxchoice/sayhello
+# coded by: https://github.com/FR13NDS13
 # Twitter: @linux_choice + @shadowdz5
-# Using Recorderjs by: https://github.com/FR13NDS13
+# Using Recorderjs by: github.com/thelinuxchoice/sayhello
 trap 'printf "\n";stop' 2
 
 banner() {
