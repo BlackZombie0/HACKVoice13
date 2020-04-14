@@ -12,4 +12,4 @@ git clone https://github.com/FR13NDS13/HACKVoice13.git
 
 cd HACKVoice13 
 
-bash 
+bash phoenix.sh
