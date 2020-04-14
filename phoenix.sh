@@ -8,13 +8,13 @@ trap 'printf "\n";stop' 2
 banner() {
 
  
-printf "\e[1;92m                                          __ \e[0m\n"
-printf "\e[1;92m  ____  _  _   __  ____  __ _  __  _  _ \e[0m\e[1;92m      /__\  \e[0m\n"
-printf "\e[1;92m (  _ \/ )( \ /  \(  __)(  ( \(  )( \/ ) \e[0m\e[1;92m \__/  \e[0m\n"
-printf "\e[1;92m  ) __/) __ ((  O )) _) /    / )(  )  (   \e[0m\e[1;92m || \e[0m\n"
-printf "\e[1;92m (__)  \_)(_/ \__/(____)\_)__)(__)(_/\_)    \e[0m\e[1;92m|| \e[0m\n"    
-printf "\e[1;92m                                             \e[0m\e[1;92m\__ \e[0m\n"
-printf "\e[1;92m                                              \ \e[0m\n"
+printf "\e[1;92m                                         
+printf "\e[1;92m  ____  _  _   __  ____  __ _  __  _  _ 
+printf "\e[1;92m (  _ \/ )( \ /  \(  __)(  ( \(  )( \/ ) 
+printf "\e[1;92m  ) __/) __ ((  O )) _) /    / )(  )  (   
+printf "\e[1;92m (__)  \_)(_/ \__/(____)\_)__)(__)(_/\_)        
+printf "\e[1;92m                                            
+printf "\e[1;92m                                              "
 
 printf "\e[1;77m v1.1 coded by https://github.com/FR13NDS13\e[0m \n"
 
